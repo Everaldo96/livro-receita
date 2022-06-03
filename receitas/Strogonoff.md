@@ -6,3 +6,4 @@
 
 - Creme de leite;
 - Temperos;
+- Batata inglesa;
